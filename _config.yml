@@ -1,7 +1,7 @@
 name: cch
 favicon: null
-layout_spectrum: 0.3253406516741961
-typography_spectrum: 0.9178029261529446
+layout_spectrum: 0.25524
+typography_spectrum: 0.49125
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#4781a6'
+    - '#6eacd5'
+    - '#fefefe'
+    - '#2c606d'
+    - '#8fc4e6'
   brandStrength: 0.0397829560097307
   lightness: 0.47983050253242254
   saturation: 0.3076463653706014
